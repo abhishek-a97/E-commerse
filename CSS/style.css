@@ -1,0 +1,90 @@
+/* NAVSECTION */
+.navbg{
+background-color: #141E61;
+
+}
+.nav-item{
+  padding: 5px;
+
+}
+input{
+background: url("IMG/searchicon.png") top left     no-repeat;
+height:30px;
+padding-left:25px;
+}
+
+.New{
+
+  position: fixed;
+width: 100%;
+
+}
+.logo{
+  height: 40px;
+  width: 40px;
+}
+
+.nav-item{
+  display: inline;
+}
+.search_bar{
+  margin: auto 30px auto 30px;
+}
+.nav_position{
+  position: absolute;
+  right: 100px;
+}
+/* LOGIN FORM */
+.form-hed{
+  padding: 2%;
+  font-family: 'Roboto', sans-serif;
+}
+.log-form{
+
+  margin: 4% auto 10%;
+}
+.login_page{
+
+  padding: 5px 60px;
+
+}
+.form-grup{
+  padding: 7%;
+  margin: 10% auto;
+  border: 1px solid;
+  border-radius: 10px;
+  background-color: #EEEEEE;
+}
+
+.form-grup h3, h5 {
+  text-align: center;
+}
+
+.login_page a{
+  text-align: center;
+text-decoration-style: none;
+  color: black;
+
+}
+
+/* ---------------------------------------------footer---------------------------------------------- */
+
+
+#footer {
+  padding:1%  ;
+  text-align: center;
+  background-color: #787A91;
+  color: #EEEEEE;
+
+}
+
+
+#footer a{
+  /* text-decoration-style: none; */
+   color: #EEEEEE;
+  text-align: center;
+}
+.social_icon{
+    margin: 1px 5px;
+  font-size: 1rem;
+}
